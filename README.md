@@ -34,7 +34,7 @@ Whether you're a student who’s studied hard and now needs slides fast, or just
 
 ## 📹 Demo
 
-Watch the video demo here: [Demo Link]
+Watch the video demo here: 
 
 ---
 
@@ -47,14 +47,16 @@ Watch the video demo here: [Demo Link]
    pip install -r requirements.txt
 
 
-3. Run the script
-4. Provide a list of source URLs
-5. Get your .pptx file ready to use 🎉
+3. Obtain an api key from a provider (Open AI, DeepSeek) or run ollama locally with an open source model
+4. Setup The configs for model name, url, api key, language ..etc
+5. Run the script
+6. Provide a list of source URLs
+7. Get your .pptx file ready to use 🎉
 
-### Option 2: Use the prebuilt executable
+### Option 2: Use the prebuilt executable (Soon)
 No need to install anything.
 
-Just download and run the .exe from the release/ folder.
+Just download and run the .exe from the release/ folder (when it is available).
 
 Paste your links and let the tool work its magic.
 
