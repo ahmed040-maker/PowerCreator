@@ -1,0 +1,9 @@
+requests
+python-dotenv
+beautifulsoup4
+IPython
+openai
+youtube-transcript-api
+python-pptx
+pyautogui
+PyGetWindow
